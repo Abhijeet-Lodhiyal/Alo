@@ -1,0 +1,2 @@
+framer motion lib
+    animate and variants , transition properties
